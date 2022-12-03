@@ -1,6 +1,6 @@
 command:
   cannot_be_used_by_console: This command cannot be used by the console. Sorry!
-  cannot_edit_owner: '&4No puedes cambiar el owner de esta proteccion, rompe el cartel para hacer esto.'
+  cannot_edit_owner: '&4 You can't change the owner of this protection, brake the sing to do this.'
   line_number_out_of_bounds: '&4Introduce un numero de linea entre 2 y 4 (2 y 4 Incluidos).'
   no_permission: '&4You don''t have permission to execute this command. Sorry!'
   no_sign_selected: '&4Tienes que seleccionar un cartel con el click derecho.'
